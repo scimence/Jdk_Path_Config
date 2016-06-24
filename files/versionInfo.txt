@@ -1,3 +1,3 @@
-version(20160613)
+version(20160614)
 url(https://git.oschina.net/scimence/Jdk_Path_Config/raw/master/files/Jdk_Path_Config.exe)
 Jdk_Path_Config.exe文件MD5(67b7ce7e2aa03811d70c3749b25ab5b3)

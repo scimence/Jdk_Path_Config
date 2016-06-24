@@ -8,6 +8,7 @@
 
 
  **jdk环境变量自动配置工具使用说明：** 
+
 ![拖动安装jdk的根目录至此工具上完成配置](http://git.oschina.net/uploads/images/2016/0624/213038_9c0b4a28_334438.png "jdk环境变量配置工具")
 
 [jdk环境变量自动配置工具下载（jdk_path_config.exe 2016-06-24 21:34）](https://git.oschina.net/scimence/Jdk_Path_Config/raw/master/files/Jdk_Path_Config.exe)

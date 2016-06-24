@@ -16,7 +16,7 @@ namespace Jdk_Path_Config
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            if(Update.Updated()) Application.Run(new Form1());
         }
     }
 }

@@ -1,0 +1,1 @@
+{"version":"20160613","url":"https://git.oschina.net/scimence/Jdk_Path_Config/raw/master/files/Jdk_Path_Config.exe"}

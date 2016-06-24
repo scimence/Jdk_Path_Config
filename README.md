@@ -1,4 +1,4 @@
-### jave环境的配置（jdk配置）
+### java环境的配置（jdk配置）
 
 [jdk官网下载](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
